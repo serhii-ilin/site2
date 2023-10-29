@@ -4,7 +4,7 @@ author:
   name: Serhii Ilin
   email: serhii.ilin@gmail.com
 theme: minima
-remote_theme: jekyll/minima@3cdd14d
+remote_theme: jekyll/minima@v2.5.1
 minima:
   skin: dark
   social_links:
