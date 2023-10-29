@@ -1,8 +1,8 @@
 title: Site2
 description: Short description about your site's purpose site2
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Serhii Ilin
+  email: serhii.ilin@domain.com
 theme: minima
 remote_theme: jekyll/minima
 minima:
