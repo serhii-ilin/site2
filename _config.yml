@@ -2,7 +2,7 @@ title: Site2
 description: Short description about your site's purpose site2
 author:
   name: Serhii Ilin
-  email: serhii.ilin@domain.com
+  email: serhii.ilin@gmail.com
 theme: minima
 remote_theme: jekyll/minima
 minima:
@@ -17,8 +17,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 show_downloads: false
-header_pages:
-  - portfolio.md
-  - about.md
+#header_pages:
+#  - portfolio.md
+#  - about.md
 google_analytics: UA-NNNNNNNN-N
 # show_excerpts: false
