@@ -8,10 +8,10 @@ remote_theme: jekyll/minima@3cdd14d
 minima:
   skin: dark
   social_links:
-    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
-    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
-    - { platform: linkedin, user_url: "https://linkedin.com/jekyllrb" }    
-    - { platform: telegram, user_url: "https://linkedin.com/jekyllrb" }    
+#    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
+#    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
+#    - { platform: linkedin, user_url: "https://linkedin.com/jekyllrb" }    
+#    - { platform: telegram, user_url: "https://linkedin.com/jekyllrb" }    
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
