@@ -4,6 +4,7 @@ author:
   name: GitHub User
   email: your-email@domain.com
 theme: minima
+remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
@@ -14,6 +15,7 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 show_downloads: false
 header_pages:
   - about.md
