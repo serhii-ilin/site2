@@ -17,7 +17,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 show_downloads: false
-#header_pages:
+header_pages:
   - portfolio.md
   - about.md
 google_analytics: UA-NNNNNNNN-N
